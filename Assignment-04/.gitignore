@@ -1,0 +1,13 @@
+# Environment Variables (sensitive keys)
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Local Logs & Outputs
+agent_execution.log
+screenshots/*.png
+
+# OS metadata
+.DS_Store
